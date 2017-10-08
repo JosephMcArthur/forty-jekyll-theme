@@ -1,4 +1,4 @@
 ---
-layout: default
+layout: allposts
 slug: food
 ---
