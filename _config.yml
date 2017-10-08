@@ -22,7 +22,7 @@ collections:
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 12
 
 # social settings
 500px_url:
