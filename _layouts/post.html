@@ -25,15 +25,16 @@
 		<p id="post-meta">{{ category_content }}</p>
 		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
 		<p>{{ content }}</p>
-	</div>
-</section>
-
-{% assign post = page %}	
+		
+		{% assign post = page %}	
 {% assign category = site.my_categories | where: "slug", post.category %}
 {% assign category = category[0] %}
 {% if category %}
     {% capture category_content %}<a class="label" href="{{ category.url }}">{{ category.name }}</a>{% endcapture %}
 {% endif %}
+		
+	</div>
+</section>
 	
 </div>
 
