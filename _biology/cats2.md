@@ -1,4 +1,4 @@
 ---
 layout: blog_by_category
-slug: food
+slug: cats2
 ---
