@@ -3,7 +3,7 @@ layout: post
 title: duplicate
 description: dup dup dup
 image: assets/images/pic06.jpg
-tags: [biology, pig]
+tags: [biology, pig, cats2]
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
