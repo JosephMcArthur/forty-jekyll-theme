@@ -15,7 +15,7 @@ phone: (716) 555-5555
 gems:
   - jekyll-redirect-from
 collections:
-  biology:
+  my_categories:
     output: true
 
 # homepage tiles
