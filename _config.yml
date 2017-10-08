@@ -17,6 +17,8 @@ gems:
 collections:
   my_categories:
     output: true
+    permalink: /advance/:name/
+
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
